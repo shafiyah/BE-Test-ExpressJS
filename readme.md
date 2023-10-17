@@ -1,4 +1,4 @@
-# Beberapa point untuk hasil test yang akan diberikan
+# Beberapa point untuk hasil test yang diberikan
 
 1. Refactoring function yang bernama refactoreMe1() dan refactoreMe2() menggunakan native query ada di file exampleController.js
 
@@ -15,7 +15,17 @@
 7. note : ada tambahan table auth, cyberattack, author, dan endpontacces. dataset sudah di tambah di folder files.
 
 
-===============================================================================================================================
+
+
+
+
+
+
+
+
+
+
+
 
 
 # Beberapa point untuk hasil test yang akan diberikan
